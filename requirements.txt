@@ -1,0 +1,6 @@
+pandas
+streamlit
+numpy
+google-generativeai
+langchian
+dotenv
